@@ -1,5 +1,6 @@
 # Tech With Warriors (TWW) Python Internship Projects
 
+![MAIN POST PIC](https://github.com/user-attachments/assets/d314c22b-3098-4f48-bab6-aaf5b118f86a)
  ## Image Classification with TensorFlow
 This project involves building and training an image classification model using TensorFlow and Keras. You can use the CIFAR-10 dataset for this purpose.
 
